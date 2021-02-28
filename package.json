@@ -1,0 +1,10 @@
+{
+  "name": "test-jasper",
+  "version": "1.0.0",
+  "Description": "Jasper with node",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-jasper": "^0.2.5"
+  }
+}
